@@ -1,0 +1,13 @@
+baseq: 
+  name        : "baseq"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:gabriel@gabrielfok.us"
+
+cove: 
+  name        : "cove"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:gabriel@gabrielfok.us"

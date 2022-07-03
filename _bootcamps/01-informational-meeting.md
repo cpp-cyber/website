@@ -1,0 +1,20 @@
+---
+layout: single
+title: "Meeting 1 (7/2/2022)"
+permalink: /bootcamps/meeting-1/
+paginate: true
+---
+
+> Please note: The recording and slideshow for both CPTC and CCDC are the same this week. However, the homeworks are different. If you wish to do both bootcamps, please do both forms.
+
+# CPTC: Informational Meeting
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/-dQw4w9WgXcQ?controls=0" frameborder="0" allowfullscreen></iframe>
+<br>
+<a href="/bootcamps/slides/meeting-1.pdf" class="btn btn--danger btn--large"><span>Slides</span></a>
+<a href="https://da.gd/cptc22pre" class="btn btn--danger btn--large"><span>Homework</span></a>
+
+# CCDC: Informational Meeting 
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/-dQw4w9WgXcQ?controls=0" frameborder="0" allowfullscreen></iframe>
+<br>
+<a href="/bootcamps/slides/meeting-1.pdf" class="btn btn--info btn--large"><span>Slides</span></a>
+<a href="https://da.gd/ccdc22pre" class="btn btn--info btn--large"><span>Homework</span></a>
