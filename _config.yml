@@ -115,13 +115,13 @@ author:
       # url: "mailto:admin@cysec.team"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://cysec.team"
+      url: "https://cysec.team"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/cpp-cyber"
+      url: "https://github.com/cpp-cyber"
 
 # Site Footer
 footer:
@@ -134,7 +134,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/cpp-cyber"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -143,7 +143,7 @@ footer:
       # url:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      # url: 
 
 
 # Reading Files
