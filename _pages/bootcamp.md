@@ -1,6 +1,6 @@
 ---
-layout: splash
-permalink: /
+layout: collection
+permalink: /bootcamps
 hidden: true
 header:
   overlay_color: "#00843D"

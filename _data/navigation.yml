@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Summer Bootcamps"
+    url: /bootcamps
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
@@ -10,3 +10,21 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+
+bootcamp:
+- title: "Parent Link 1"
+  url: /parent-1-page-url/
+  children:
+    - title: "Child Link 1"
+      url: /child-1-page-url/
+    - title: "Child Link 2"
+      url: /child-2-page-url/
+- title: "Parent Link 2"
+  url: /parent-2-page-url/
+  children:
+    - title: "Child Link 1"
+      url: /child-1-page-url/
+    - title: "Child Link 2"
+      url: /child-2-page-url/
+    - title: "Child Link 3"
+      url: /child-3-page-url/
