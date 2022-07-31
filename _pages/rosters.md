@@ -26,7 +26,7 @@ Members: Dylan Tran, Gabriel Fok, Justin Covairt, Nathan Eberhardt, Robinson Tra
 ## CCDC
 Captain: Silas Shen and Louis Hernandez
 
-Members: Aaron Robinson, Alex Tselevich, Brice Lauer, Gabriel Fok, Nathan Eberhardt, Taylor Nguyen, Drue Hidalgo Somar Dakak,
+Members: Aaron Robinson, Alex Tselevich, Brice Lauer, Gabriel Fok, Nathan Eberhardt, Taylor Nguyen, Drue Hidalgo, Somar Dakak
 
 ## CPTC
 Captain: Joey Dillion
