@@ -13,7 +13,7 @@ layouts_gallery:
   - url: /assets/images/mm-layout-archive.png
     image_path: /assets/images/mm-layout-archive.png
     alt: "archive layout example"
-last_modified_at: 2022-07-02
+last_modified_at: 2022-07-31
 toc: true
 ---
 
@@ -35,5 +35,6 @@ Every summer, the CPP Cyber teams host tryouts for CCDC and CPTC. In order to pr
 | --------------------------------------------------------------- | ----------------------------|------------------------ |
 | Collegiate Penetration Testing Competition World Finals         | 1st                         | 2021 - 2022             |
 | Collegiate Penetration Testing Competition Regional Qualifiers  | 1st                         | 2021 - 2022             |
-| Collegiate Cyber Defense Competition Regional Qualifiers        | 8th                         | 2021 - 2022             |
+| Collegiate Cyber Defense Competition Regional Finals            | 8th                         | 2021 - 2022             |
+| Collegiate Cyber Defense Competition Regional Qualifiers        | 7th                         | 2021 - 2022             |
 | Collegiate Penetration Testing Competition World Finals         | 3rd                         | 2020 - 2021             |
