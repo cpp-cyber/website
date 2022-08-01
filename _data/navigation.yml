@@ -15,6 +15,8 @@ bootcamps:
   children:
     - title: "Home"
       url: /bootcamps/
+    - title: "Tryouts Information"
+      url: /tryouts-info/
 - title: "Summer Bootcamp"
   url: 
   children:
