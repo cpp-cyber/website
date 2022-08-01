@@ -37,13 +37,31 @@ Teamwork scores will be derived by the team's combined observations on each part
 
 **Team Attitude:** Contributing to a welcoming, friendly, and productive team environment.
 
-## Team Selection Rubric
-Team members will be selected based on a composite score of several categories. For fairness, selection for the team will be based upon your final score from the rubric below. No other factors are used for team selection.
+## Team Selection Process
+Team members will be selected based on a composite score of several categories. Major, background, or club affiliation, have no bearing over the selection process. If you have any questions or concerns regarding the team selection process, please reach out to current team members in the [Discord](https://discord.gg/vbB3tGYWNN).
+
+
+### CCDC Rubric/Requirements
 
 | Category | Weight |
 | -------- | ------ |
 | Homework | 20%    |
 | Teamwork | 15%    |
-| Attendance | 15%  |
+| Attendance | 5%  |
 | Presentations | 10% |
 | Tryouts  | 50%    |
+
+- Full time student at CPP for Fall and Spring semeseter
+- Be in good academic standing with a GPA of at least 2.0
+
+### CPTC Rubric/Requirements
+
+| Category | Weight |
+| -------- | ------ |
+| Homework | 20%    |
+| Teamwork | 15%    |
+| Attendance | 5%   |
+| Tryouts  | 50%    |
+
+- Full time student at CPP for Fall semeseter
+- Be in good academic standing with a GPA of at least 2.0
