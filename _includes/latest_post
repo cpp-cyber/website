@@ -1,0 +1,7 @@
+
+{% assign post = site.posts.first %}
+
+<center><h1>Latest Blog Post ({{ post.date | date: "%-d %B %Y" }})</h1></center>
+<center>
+  {% include latest-single.html %} 
+</center>
