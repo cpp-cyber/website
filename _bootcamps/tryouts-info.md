@@ -33,11 +33,11 @@ Tryouts will be scored on service uptime, red team defense, injects, and profess
 ## CPTC Tryout Grading Rubric
 Tryouts will be scored soley on the deliverable report at the end of the tryout engagement.
 
-Technical Findings: The number of technical findings that are found during the penetration testing phase. 
+**Technical Findings:** The number of technical findings that are found during the penetration testing phase. 
 
-Report Quality: A measure of how well structured and thorough the report is in the sections. A rubric of how each section of the report is scored will be provided on the day preceding tryouts. 
+**Report Quality:** A measure of how well structured and thorough the report is in the sections. A rubric of how each section of the report is scored will be provided on the day preceding tryouts. 
 
-Business Acumen:  How well the overall relevancy of your findings is conveyed. 
+**Business Acumen:**  How well the overall relevancy of your findings is conveyed. 
 
 ## Teamwork Grading Rubric
 Teamwork scores will be derived by the team's combined observations on each participant's sportsmanlike conduct and team attitude.
