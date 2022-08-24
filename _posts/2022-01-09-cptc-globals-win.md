@@ -3,6 +3,7 @@ title: "Hall of Fame: 2021-2022 CPTC Global Champions"
 tags:
   - hall-of-fame
   - update
+  - cptc
 ---
 
 # Announcement

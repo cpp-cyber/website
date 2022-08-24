@@ -19,7 +19,7 @@ Homework will be graded on completeness, accuracy, and originality. All assignme
 
 **Originality:** Does the homework show the student's own interpretations, efforts, and research? Is the submission styled appropriately?
 
-## Tryout Grading Rubric
+## CCDC Tryout Grading Rubric
 Tryouts will be scored on service uptime, red team defense, injects, and professionalism.
 
 **Service Uptime:** The number of checks each service passed compared to the number of checks each service failed.
@@ -29,6 +29,15 @@ Tryouts will be scored on service uptime, red team defense, injects, and profess
 **Injects:** The combined scores of injects during the tryouts (graded similarly as homework).
 
 **Professionalism:** Scored based on the professionalism of interactions the participant had with tryout organizers during the tryout.
+
+## CPTC Tryout Grading Rubric
+Tryouts will be scored soley on the deliverable report at the end of the tryout engagement.
+
+Technical Findings: The number of technical findings that are found during the penetration testing phase. 
+
+Report Quality: A measure of how well structured and thorough the report is in the sections. A rubric of how each section of the report is scored will be provided on the day preceding tryouts. 
+
+Business Acumen:  How well the overall relevancy of your findings is conveyed. 
 
 ## Teamwork Grading Rubric
 Teamwork scores will be derived by the team's combined observations on each participant's sportsmanlike conduct and team attitude.

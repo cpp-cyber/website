@@ -3,6 +3,8 @@ title: "End of the 2022 CPP Cyber CCDC/CPTC Bootcamps!"
 tags: 
   - update
   - bootcamps
+  - ccdc
+  - cptc
 ---
 
 # End of an Era
