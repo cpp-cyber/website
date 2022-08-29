@@ -14,6 +14,6 @@ The CPP CCDC team has concluded its bootcamp with the 2022 CCDC tryouts. Althoug
 
 **Captain:** Gabriel Fok
 
-**Members:** Dylan Tran, Evan Deters, Jacob Jayme, Jessica Leung, Justin Covairt, Jimmy Peng, Karina Rivera, Marshall Ung, Sydney Duong
+**Members:** Dylan Tran, Evan Deters, Jacob Jayme, Jeremiah Fong, Jessica Leung, Justin Covairt, Tanay Shah, Jimmy Peng, Karina Rivera, Marshall Ung, Sydney Duong
 
 Best of luck in the 2022-2023 CCDC season!
