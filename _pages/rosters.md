@@ -29,6 +29,6 @@ Captain: Silas Shen and Louis Hernandez
 Members: Aaron Robinson, Alex Tselevich, Brice Lauer, Gabriel Fok, Nathan Eberhardt, Taylor Nguyen, Drue Hidalgo, Somar Dakak
 
 ## CPTC
-Captain: Joey Dillion
+Captain: Joey Dillon
 
 Members: Alex Tselevich, Andy Chiang, Brice Lauer, Randy Salzar, Silas Shen
