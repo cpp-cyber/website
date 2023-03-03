@@ -24,7 +24,7 @@ Members: Dylan Tran, Gabriel Fok, Justin Covairt, Nathan Eberhardt, Robinson Tra
 # 2020 - 2021
 
 ## CCDC
-Captain: Silas Shen and Louis Hernandez
+Captain: Silas Shen and Louie Hernandez
 
 Members: Aaron Robinson, Alex Tselevich, Brice Lauer, Gabriel Fok, Nathan Eberhardt, Taylor Nguyen, Drue Hidalgo, Somar Dakak
 
