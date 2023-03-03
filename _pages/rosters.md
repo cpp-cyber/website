@@ -8,13 +8,24 @@ toc: true
 A collection of the people who made CPP Cyber what it is. While many names have been lost to time, we still honor those who came before us. Rosters are listed alphabetically with the starting roster first, followed by alternates.
 
 ---
+# 2022 - 2023
+
+## CCDC
+Captain: Gabriel Fok
+
+Members: Evan Deters, Dylan Tran, Jeremiah Fong, Jessica Leung, Justin Covairt, Karina Rivera, Tanay Shah, Jacob Jayme, Jimmy Peng, Marshall Ung, Sydney Duong
+
+## CPTC
+Captain: Justin Covairt
+
+Members: Derrick Tran, Dylan Tran, Gabriel Fok, Jasmine Weddle, Taylor Nguyen, Jimmy Peng, Marshall Ung
 
 # 2021 - 2022
 
 ## CCDC
 Captain: Taylor Nguyen
 
-Members: Evan Deters, Dylan Tran, Gabriel Fok, Jessica Leung, Justin Covairt, Lawrence Kim, Alejandro Rivera, Alex Tselevich, Brandon Tiet, The Hoang.
+Members: Evan Deters, Dylan Tran, Gabriel Fok, Jessica Leung, Justin Covairt, Lawrence Kim, Alejandro Rivera, Alex Tselevich, Brandon Tiet, The Hoang
 
 ## CPTC
 Captain: Alex Tselevich
