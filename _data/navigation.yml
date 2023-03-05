@@ -6,8 +6,6 @@ main:
     url: /bootcamps/
   - title: Former Rosters
     url: /rosters
-  - title: "Blog"
-    url: /blog/
 
 bootcamps:
 - title: "Welcome"
