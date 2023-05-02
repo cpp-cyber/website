@@ -13,7 +13,7 @@ A collection of the people who made CPP Cyber what it is. While many names have 
 ## CCDC
 Captain: Gabriel Fok
 
-Members: Evan Deters, Dylan Tran, Jeremiah Fong, Jessica Leung, Justin Covairt, Karina Rivera, Tanay Shah, Jacob Jayme, Jimmy Peng, Marshall Ung, Sydney Duong
+Members: Evan Deters, Dylan Tran, Jessica Leung, Jimmy Peng, Justin Covairt, Karina Rivera, Tanay Shah, Jacob Jayme, Jeremiah Fong, Marshall Ung, Sydney Duong
 
 ## CPTC
 Captain: Justin Covairt
