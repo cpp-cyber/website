@@ -20,3 +20,6 @@ The Collegiate Penetration Testing Competition (CPTC) is a penetration testing c
 
 Both bootcamps are designed with the same guiding principles. If you participate in both, you'll see they present different content in approximately the same way. 
 
+## I don't go to CPP. Can I still participate?
+
+Yes. We welcome students from all schools. 
