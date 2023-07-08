@@ -54,10 +54,8 @@ Team members will be selected based on a composite score of several categories. 
 
 | Category | Weight |
 | -------- | ------ |
-| Homework | 20%    |
-| Teamwork | 15%    |
-| Attendance | 5%  |
-| Presentations | 10% |
+| Homework | 40%    |
+| Attendance | 10%  |
 | Tryouts  | 50%    |
 
 - Full time student at CPP for Fall and Spring semeseter
