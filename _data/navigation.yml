@@ -15,20 +15,25 @@ bootcamps:
       url: /bootcamps/
     - title: "Tryouts Information"
       url: /tryouts-info/
-- title: "Summer Bootcamp"
+- title: "Summer Bootcamp (2023)"
   url: 
   children:
     - title: "Meeting 1 (7/2/2022)"
       url: /bootcamps/meeting-1/
+- title: "Summer Bootcamp (2022)"
+  url: 
+  children:
+    - title: "Meeting 1 (7/2/2022)"
+      url: /bootcamps/2022/meeting-1/
     - title: "Meeting 2 (7/9/2022)"
-      url: /bootcamps/meeting-2/
+      url: /bootcamps/2022/meeting-2/
     - title: "Meeting 3 (7/16/2022)"
-      url: /bootcamps/meeting-3/
+      url: /bootcamps/2022/meeting-3/
     - title: "Meeting 4 (7/23/2022)"
-      url: /bootcamps/meeting-4/
+      url: /bootcamps/2022/meeting-4/
     - title: "Meeting 5 (7/30/2022)"
-      url: /bootcamps/meeting-5/
+      url: /bootcamps/2022/meeting-5/
     - title: "Meeting 6 (8/6/2022)"
-      url: /bootcamps/meeting-6/
+      url: /bootcamps/2022/meeting-6/
     - title: "Meeting 7 (8/13/2022)"
-      url: /bootcamps/meeting-7/
+      url: /bootcamps/2022/meeting-7/
