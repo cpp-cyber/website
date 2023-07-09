@@ -5,8 +5,6 @@ permalink: /bootcamps/2023/schedule/
 paginate: true
 ---
 
-# Bootcamp Schedules
-
 | Date | CPTC (10AM - 12PM) | CCDC (1PM - 4PM) |
 | ---- | -------------------- | -------------------- |
 | Jul 8 | [Informational Meeting](/bootcamps/2023/meeting-1/) | [Informational Meeting](/bootcamps/2023/meeting-1/) |
