@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Meeting 3 (7/16/2022)"
-permalink: /bootcamps/meeting-3/
+permalink: /bootcamps/2022/meeting-3/
 paginate: true
 ---
 > Attendance is only valid during the live meeting. Do not fill out the attendance afterwards. It will not count.
