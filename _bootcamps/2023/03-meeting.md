@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Meeting 3 (7/22/2023)"
-permalink: /bootcamps/2023/meeting-2/
+permalink: /bootcamps/2023/meeting-3/
 paginate: true
 ---
 
