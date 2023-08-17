@@ -65,10 +65,10 @@ Team members will be selected based on a composite score of several categories. 
 
 | Category | Weight |
 | -------- | ------ |
-| Homework | 20%    |
-| Teamwork | 15%    |
-| Attendance | 5%   |
-| Tryouts  | 50%    |
+| Homework | 25%    |
+| Teamwork | 10%    |
+| Attendance | 10%   |
+| Tryouts  | 55%    |
 
 - Full time student at CPP for Fall semeseter
 - Be in good academic standing with a GPA of at least 2.0
