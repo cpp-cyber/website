@@ -30,6 +30,8 @@ bootcamps:
       url: /bootcamps/2023/meeting-4/
     - title: "Meeting 5 (8/5/2023)"
       url: /bootcamps/2023/meeting-5/
+    - title: "Meeting 6 (8/12/2023)"
+      url: /bootcamps/2023/meeting-6/
 - title: "Summer Bootcamp (2022)"
   url: 
   children:
