@@ -8,6 +8,18 @@ toc: true
 A collection of the people who made CPP Cyber what it is. While many names have been lost to time, we still honor those who came before us. Rosters are listed alphabetically with the starting roster first, followed by alternates.
 
 ---
+# 2023 - 2024
+
+## CCDC
+Captain: Evan Deters
+
+Members: Bill Luong, Derrick Tran, Dylan Michalak, Dylan Tran, Jessica Leung, Tanay Shah, Marshall Ung, Alex Eckert, Kenneth Cher, Salvador Serrano, Sydney Duong
+
+## CPTC
+Captain: Dylan Tran
+
+Members: Derrick Tran, Gabriel Fok, Marshall Ung, Maxwell Caron, Tanay Shah, Andrew Tarng, Palmer Du
+
 # 2022 - 2023
 
 ## CCDC
