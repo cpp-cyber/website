@@ -13,7 +13,7 @@ A collection of the people who made CPP Cyber what it is. While many names have 
 ## CCDC
 Captain: Evan Deters
 
-Members: Bill Luong, Derrick Tran, Dylan Michalak, Dylan Tran, Jessica Leung, Tanay Shah, Marshall Ung, Alex Eckert, Kenneth Cher, Salvador Serrano, Sydney Duong
+Members: Bill Luong, Derrick Tran, Dylan Michalak, Dylan Tran, Jessica Leung, Marshall Ung, Tanay Shah, Alex Eckert, Kenneth Cher, Salvador Serrano, Sydney Duong
 
 ## CPTC
 Captain: Dylan Tran
