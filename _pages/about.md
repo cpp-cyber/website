@@ -15,7 +15,7 @@ The Cal Poly Pomona CCDC and CPTC teams are student-led, student-managed, and st
 
 Every summer, the CPP Cyber teams host tryouts for CCDC and CPTC. In order to prepare students for the tryouts, [bootcamps](/bootcamps/) for the respective competition are held throughout July and August. The easiest way to get involved with the bootcamps is to join the Discord server and check out the latest updates.
 
-<a href="https://discord.gg/vbB3tGYWNN" class="btn btn--primary btn--large"><i class="fab fa-fw fa-discord" aria-hidden="true"></i><span> Join the Discord</span></a>
+<a href="https://discord.gg/D6Xg2fyYRt" class="btn btn--primary btn--large"><i class="fab fa-fw fa-discord" aria-hidden="true"></i><span> Join the Discord</span></a>
 
 <!-- {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %} -->
 

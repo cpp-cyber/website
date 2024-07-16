@@ -47,7 +47,7 @@ Teamwork scores will be derived by the team's combined observations on each part
 **Team Attitude:** Contributing to a welcoming, friendly, and productive team environment.
 
 ## Team Selection Process
-Team members will be selected based on a composite score of several categories. Major, background, or club affiliation, have no bearing over the selection process. The bootcamps/tryout process is the only way to be selected on the CPP CCDC and CPTC teams. If you have any questions or concerns regarding the team selection process, please reach out to current team members in the [Discord](https://discord.gg/vbB3tGYWNN).
+Team members will be selected based on a composite score of several categories. Major, background, or club affiliation, have no bearing over the selection process. The bootcamps/tryout process is the only way to be selected on the CPP CCDC and CPTC teams. If you have any questions or concerns regarding the team selection process, please reach out to current team members in the [Discord](https://discord.gg/D6Xg2fyYRt).
 
 
 ### CCDC Rubric/Requirements
