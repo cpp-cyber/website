@@ -25,7 +25,7 @@ bootcamps:
     - title: "Meeting 2 (7/20/2024)"
       url: /bootcamps/2024/meeting-2/
     - title: "Meeting 3 (7/27/2024)"
-    url: /bootcamps/2024/meeting-3/
+      url: /bootcamps/2024/meeting-3/
 - title: "Summer Bootcamp (2023)"
   url:
   children:
