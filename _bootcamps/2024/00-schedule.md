@@ -9,7 +9,7 @@ paginate: true
 | ---- | -------------------- | -------------------- |
 | Jul 13 | [Informational Meeting](/bootcamps/2024/meeting-1/) | [Informational Meeting](/bootcamps/2024/meeting-1/) |
 | Jul 20 | [Intro to Pen Testing](/bootcamps/2024/meeting-2/#cptc-intro-to-penetration-testing)  | [Business Week](/bootcamps/2024/meeting-2/#ccdc-business-week-intro-to-business) |
-| Jul 27 | Hacking Web Apps | Intro to Networking |
+| Jul 27 | [Hacking Web Apps](/bootcamps/2024/meeting-3/#cptc-intro-to-web-applications) | [Intro to Networking](/bootcamps/2024/meeting-3/#ccdc-intro-to-networking) |
 | Aug 3  | Hacking Linux    | Securing Linux |
 | Aug 10 | Hacking Windows | Securing Windows |
 | Aug 17 | Consulting | Review Week |

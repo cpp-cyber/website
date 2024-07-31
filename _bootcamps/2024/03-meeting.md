@@ -12,7 +12,7 @@ paginate: true
 <a href="/bootcamps/2024/slides/cptc-meeting-3.pdf" class="btn btn--danger btn--large"><span>Slides</span></a>
 <a href="/bootcamps/2024/homework/2024-CPTC-HW3.pdf" class="btn btn--danger btn--large"><span>Homework</span></a>
 
-# CCDC: Business Week: Intro to Networking
+# CCDC: Intro to Networking
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/hox9XQcyl3Q?si=JanyUslH9Og272Z6" frameborder="0" title="CCDC Video" allowfullcreen></iframe>
 <br>
 <a href="/bootcamps/2024/slides/ccdc-meeting-3.pdf" class="btn btn--info btn--large"><span>Slides</span></a>
