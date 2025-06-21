@@ -8,6 +8,19 @@ toc: true
 A collection of the people who made CPP Cyber what it is. While many names have been lost to time, we still honor those who came before us. Rosters are listed alphabetically with the starting roster first, followed by alternates.
 
 ---
+# 2024 - 2025
+
+## CCDC
+Captain: Dylan Michalak
+
+Members: Justin Sulivan-Pascual, Luke Kimes, Marshall Ung, Maxwell Caron, Natalie Tran, Ryan Miller, Ryan Wong, Alexander Chacon, Joseph Shin, Medha Swarnachandrabalaji, Sara Downing
+
+## CPTC
+Captain: Marshall Ung
+
+Members: Luke Kimes, Maxwell Caron, Ryan Miller, Ryan Wong, Tanay Shah, Gerardo Solis, Joseph Shin
+
+
 # 2023 - 2024
 
 ## CCDC

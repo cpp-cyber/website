@@ -15,6 +15,11 @@ bootcamps:
       url: /bootcamps/
     - title: "Tryouts Information"
       url: /tryouts-info/
+- title: "Summer Bootcamp (2025)"
+  url:
+  children:
+    - title: "Schedule"
+      url: /bootcamps/2025/schedule/
 - title: "Summer Bootcamp (2024)"
   url:
   children:
