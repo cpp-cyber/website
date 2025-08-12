@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Meeting 4 (8/2/2025)"
-permalink: /bootcamps/2025/meeting-4/
+title: "Meeting 5 (8/9/2025)"
+permalink: /bootcamps/2025/meeting-5/
 paginate: true
 ---
 
