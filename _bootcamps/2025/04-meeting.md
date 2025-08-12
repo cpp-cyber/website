@@ -5,7 +5,7 @@ permalink: /bootcamps/2025/meeting-4/
 paginate: true
 ---
 
-# CPTC: Hacking Linujx
+# CPTC: Hacking Linux
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/MM1xUE_KucU?si=_8Q_kgdWFzPaRv58;controls=0" frameborder="0" title="CPTC Video" allowfullcreen></iframe>
 <br>
