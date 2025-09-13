@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Meeting 8 (9/9/2025)"
+title: "Meeting 8 (9/6/2025)"
 permalink: /bootcamps/2025/meeting-8/
 paginate: true
 ---
