@@ -8,6 +8,19 @@ toc: true
 A collection of the people who made CPP Cyber what it is. While many names have been lost to time, we still honor those who came before us. Rosters are listed alphabetically with the starting roster first, followed by alternates.
 
 ---
+# 2025 - 2026
+
+## CCDC
+Captain: Natalie Tran
+
+Members: Adam Cheung, Annabel Wen, Anson Ng, Anthony Rivera, Daniel Lee, Ian Gabriel Eusebio, Roberto Saldana, Daniel Wang, Jae Cho, Medha Swarnachandrabalaji, Sara Downing
+
+## CPTC
+Captain: Ryan Miller
+
+Members: Alex Chacon, Anthony Rivera, Luke Kimes, Ryan Wong, Warren Maxwell, Roberto Castro, Ryan Sorn 
+
+
 # 2024 - 2025
 
 ## CCDC
