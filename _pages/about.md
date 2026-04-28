@@ -23,6 +23,7 @@ Every summer, the CPP Cyber teams host tryouts for CCDC and CPTC. In order to pr
 
 | Competition                                                     | Placement                   | Season                  |
 | --------------------------------------------------------------- | ----------------------------|------------------------ |
+| Collegiate Penetration Testing Competition Regional Qualifiers  | 1st                         | 2025 - 2026             |
 | Collegiate Penetration Testing Competition Regional Qualifiers  | 1st                         | 2024 - 2025             |
 | Collegiate Cyber Defense Competition National Finals            | 2nd                         | 2023 - 2024             |
 | Collegiate Cyber Defense Competition Regional Qualifiers        | 1st                         | 2023 - 2024             |
