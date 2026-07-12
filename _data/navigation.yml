@@ -21,6 +21,7 @@ bootcamps:
     - title: "Schedule"
       url: /bootcamps/2026/schedule/
     - title: "Meeting 1 (7/11/2026)"
+      url: /bootcamps/2026/meeting-1/
 - title: "Summer Bootcamp (2026)"
   url:
   children:
