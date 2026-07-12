@@ -10,8 +10,8 @@ paginate: true
 # CPTC: Informational Meeting
 <iframe width="640" height="360" src="https://www.youtube.com/embed/et3nIu_X5jc?si=zyC4b6VFfRxtJjcJ&amp;controls=0" frameborder="0" title="CPTC Video" allowfullcreen></iframe>
 <br>
-<a href="/bootcamps/2025/slides/Meeting-1.pdf" class="btn btn--info btn--large"><span>Slides</span></a>
-<a href="/bootcamps/2025/homework/2025-HW1.pdf" class="btn btn--info btn--large"><span>Homework</span></a>
+<a href="/bootcamps/2025/slides/Meeting-1.pdf" class="btn btn--danger btn--large"><span>Slides</span></a>
+<a href="/bootcamps/2025/homework/2025-HW1.pdf" class="btn btn--danger btn--large"><span>Homework</span></a>
 
 # CCDC: Informational Meeting 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/et3nIu_X5jc?si=zyC4b6VFfRxtJjcJ&amp;controls=0" frameborder="0" title="CCDC Video" allowfullcreen></iframe>
