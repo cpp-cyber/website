@@ -5,7 +5,7 @@ permalink: /bootcamps/2025/meeting-3/
 paginate: true
 ---
 
-# CPTC: Intro to Penetration Testing
+# CPTC: Hacking Web Apps and LLMs
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/TZLYKkuA2Is?si=GPQ8AJ_xOVBz_lv0&amp;controls=0" frameborder="0" title="CPTC Video" allowfullcreen></iframe>
 <br>
