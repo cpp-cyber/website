@@ -5,7 +5,7 @@ permalink: /bootcamps/2026/meeting-3/
 paginate: true
 ---
 
-# CPTC: Hcaking Web Apps and LLMs
+# CPTC: Hacking Web Apps and LLMs
 
 <iframe width="640" height="360" src="https://www.youtube.com/embed/4uTCh-fo0VI?si=wK3UTbLSf3clTyFi&amp;controls=0" frameborder="0" title="CPTC Video" allowfullcreen></iframe>
 <br>
