@@ -56,9 +56,10 @@ Any team member may be removed from the team if they violate [Cal Poly Pomona's 
 
 | Category | Weight |
 | -------- | ------ |
-| Homework | 40%    |
-| Attendance | 10%  |
-| Tryouts  | 50%    |
+| Homework | 30%    |
+| Teamwork | 20%    |
+| Participation | 15%    |
+| Tryouts  | 35%    |
 
 - Full time student at CPP for Fall and Spring semeseter
 - Be in good academic standing with a GPA of at least 2.0
